@@ -1,0 +1,10 @@
+[
+        {
+                "protocol": "http",
+                "domain-suffix": "mm"
+        },
+        {
+                "protocol": "https",
+                "domain-suffix": "mm"
+        }
+]

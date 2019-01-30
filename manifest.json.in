@@ -1,0 +1,17 @@
+{
+    "name": "mattermost.dc",
+    "description": "Mattermost",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Mattermost",
+    "hooks": {
+        "mattermost": {
+            "apparmor": "mattermost.apparmor",
+            "desktop":  "mattermost.desktop",
+            "content-hub": "mattermost.content-hub",
+            "urls": "mattermost.url-dispatcher"
+        }
+    },
+    "version": "1.0.1",
+    "maintainer": "Lutin11 <saveurlinux@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
