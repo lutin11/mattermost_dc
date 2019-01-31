@@ -1,5 +1,5 @@
 // the name of your app as used in the click package (required)
-var webappName = "mattermost.dc"
+var webappName = "mattermost.lutin11"
 
 // the start url of your app (required)
 //var webappUrl = ""
