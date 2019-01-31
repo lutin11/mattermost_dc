@@ -13,5 +13,5 @@
     },
     "version": "1.0.1",
     "maintainer": "Lutin11 <saveurlinux@gmail.com>",
-    "framework" : "ubuntu-sdk-15.04.6"
+    "framework" : "ubuntu-sdk-16.04"
 }
