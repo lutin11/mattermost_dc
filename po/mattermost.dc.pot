@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mattermost.dc\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-30 09:07+0000\n"
+"POT-Creation-Date: 2019-01-31 10:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,8 +26,8 @@ msgid "www.mattermost.com"
 msgstr ""
 
 #: ../qml/SettingsDialog.qml:39 ../qml/ConfirmDialog.qml:26
-#: ../qml/AuthenticationDialog.qml:47 ../qml/Main.qml:416 ../qml/Main.qml:447
-#: ../qml/Main.qml:488 ../qml/AlertDialog.qml:26 ../qml/PromptDialog.qml:32
+#: ../qml/AuthenticationDialog.qml:47 ../qml/Main.qml:416 ../qml/Main.qml:442
+#: ../qml/Main.qml:483 ../qml/AlertDialog.qml:26 ../qml/PromptDialog.qml:32
 msgid "OK"
 msgstr ""
 
@@ -289,27 +289,20 @@ msgstr ""
 #: ../qml/Main.qml:429
 msgid ""
 "This is a generic Mattermost Webapp, based on Ogra's alternate webapp "
-"container."
+"container and inspired from nextcloud_ogra."
 msgstr ""
 
 #: ../qml/Main.qml:433
+msgid "mateosalta: whose wrote nextcloud_ogra webapps."
+msgstr ""
+
+#: ../qml/Main.qml:438
 msgid ""
 "Brian Douglass: Writer of Blobsaver, Downloadinterceptor, whose work made "
 "updloading and downloading possible."
 msgstr ""
 
-#: ../qml/Main.qml:438
-msgid "Lutin11: Hits code with hammer."
-msgstr ""
-
-#: ../qml/Main.qml:443
-msgid ""
-"Special thanks to testers, and collabrators: Wayne(out there), Milan "
-"Korecky, Kévin, maldito bastardo, Rüdiger Kupper, and the UBports Clouds "
-"group"
-msgstr ""
-
-#: ../qml/Main.qml:458
+#: ../qml/Main.qml:453
 msgid "Provide url for your personal Mattermost"
 msgstr ""
 

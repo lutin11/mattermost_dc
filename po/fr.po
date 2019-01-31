@@ -108,12 +108,18 @@ msgstr "Échec de téléchargement du fichier"
 #: ../qml/Main.qml:429
 msgid ""
 "This is a generic Mattermost Webapp, based on Ogra's alternate webapp "
-"container."
+"container and inspired from nextcloud_ogra."
 msgstr ""
 "Il s'agit d'une application web générique pour Mattermost, basée sur le "
-"conteneur de l'application web Ogra."
+"conteneur de l'application web Ogra et créée à partir de l'application web nextcloud_ogra."
 
 #: ../qml/Main.qml:433
+msgid ""
+"mateosalta: whose wrote nextcloud_ogra webapps."
+msgstr ""
+"mateosalta: qui a developpé l'application web nextcloud_ogra."
+
+#: ../qml/Main.qml:438
 msgid ""
 "Brian Douglass: Writer of Blobsaver, Downloadinterceptor, whose work made "
 "updloading and downloading possible."
@@ -121,21 +127,7 @@ msgstr ""
 "Brian Douglass: auteur de Blobsaver et Downloadinterceptor, dont le travail "
 "a rendu possible l'envoie et le téléchargement."
 
-#: ../qml/Main.qml:438
-msgid "Lutin11: Hits code with hammer."
-msgstr "Lutin11: Frappe le code avec un marteau."
-
-#: ../qml/Main.qml:443
-msgid ""
-"Special thanks to testers, and collabrators: Wayne(out there), Milan "
-"Korecky, Kévin, maldito bastardo, Rüdiger Kupper, and the UBports Clouds "
-"group"
-msgstr ""
-"Un grand merci aux testeurs et collaborateurs: Wayne(qui a quité le projet)"
-"Wayne(out there), Milan Korecky, Kévin, maldito bastardo, "
-"Rüdiger Kupper et toutes l'équipe Clouds d'UBports."
-
-#: ../qml/Main.qml:458
+#: ../qml/Main.qml:453
 msgid "Provide url for your personal Mattermost"
 msgstr "Entrez l'URL de votre serveur Mattermost"
 

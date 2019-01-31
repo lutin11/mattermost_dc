@@ -426,21 +426,17 @@ MainView {
             id: aboutDialog
             visible: false
             title: i18n.tr("About")
-            text: i18n.tr("This is a generic Mattermost Webapp, based on Ogra's alternate webapp container.")
+
+            text: i18n.tr("This is a generic Mattermost Webapp, based on Ogra's alternate webapp container and inspired from nextcloud_ogra.")
+
+            Text {
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+                text: i18n.tr('mateosalta: whose wrote nextcloud_ogra webapps.')
+            }
 
             Text {
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 text: i18n.tr('Brian Douglass: Writer of Blobsaver, Downloadinterceptor, whose work made updloading and downloading possible.')
-            }
-
-            Text {
-                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                text: i18n.tr('Lutin11: Hits code with hammer.')
-            }
-
-            Text {
-                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                text: i18n.tr('Special thanks to testers, and collabrators: Wayne(out there), Milan Korecky, Kévin, maldito bastardo, Rüdiger Kupper, and the UBports Clouds group')
             }
 
             Button {
