@@ -2,6 +2,9 @@
   "template": "cmake",
   "kill": "qmlscene",
   "ignore": [
-    ".git"
+    ".git",
+    ".idea",
+    ".gitignore",
+    ".gitmodules"
   ]
 }
