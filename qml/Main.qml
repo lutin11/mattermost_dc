@@ -19,7 +19,7 @@ MainView {
     id: root
     objectName: "mainView"
 
-    applicationName: "mattermost.lutin11"
+    applicationName: "mattermost.dc"
     theme.name: "Ubuntu.Components.Themes.Ambiance"
 
     anchorToKeyboard: true

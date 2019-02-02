@@ -1,7 +1,7 @@
 {
-    "name": "mattermost.lutin11",
+    "name": "mattermost.dc",
     "description": "Access to your Mattermost",
-    "architecture": "@CLICK_ARCH@",
+    "architecture": "armhf",
     "title": "Mattermost",
     "hooks": {
         "mattermost": {
