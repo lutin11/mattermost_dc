@@ -431,7 +431,7 @@ MainView {
 
             Text {
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                text: i18n.tr('mateosalta: whose wrote nextcloud_ogra webapps.')
+                text: i18n.tr('Mateosalta: Writer of nextcloud_ogra webapps.')
             }
 
             Text {

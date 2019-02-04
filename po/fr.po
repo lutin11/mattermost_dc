@@ -79,7 +79,7 @@ msgstr "Copier l'image"
 
 #: ../qml/Main.qml:194
 msgid "Download Image"
-msgstr ""
+msgstr "Télécharger l'image"
 
 #: ../qml/Main.qml:341
 msgid "Reload"
@@ -115,9 +115,9 @@ msgstr ""
 
 #: ../qml/Main.qml:433
 msgid ""
-"mateosalta: whose wrote nextcloud_ogra webapps."
+"Mateosalta: Writer of nextcloud_ogra webapps."
 msgstr ""
-"mateosalta: qui a developpé l'application web nextcloud_ogra."
+"Mateosalta: qui a developpé l'application web nextcloud_ogra."
 
 #: ../qml/Main.qml:438
 msgid ""
