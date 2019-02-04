@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mattermost.dc\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-02 11:48+0000\n"
+"POT-Creation-Date: 2019-02-04 19:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -293,7 +293,7 @@ msgid ""
 msgstr ""
 
 #: ../qml/Main.qml:434
-msgid "mateosalta: whose wrote nextcloud_ogra webapps."
+msgid "Mateosalta: Writer of nextcloud_ogra webapps."
 msgstr ""
 
 #: ../qml/Main.qml:439
