@@ -1,0 +1,421 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR saveurlinux@gmail.com, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: nattermost.dc\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-25 19:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/SadPage.qml:45
+msgid "Oops, something went wrong. Reload from bottom menu."
+msgstr "Oh, algo fue mal. Recargue desde el menú inferior."
+
+#: ../qml/SettingsDialog.qml:25 ../qml/Main.qml:365
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../qml/SettingsDialog.qml:33
+msgid "www.nattermost.com"
+msgstr "www.nattermost.com"
+
+#: ../qml/SettingsDialog.qml:39 ../qml/AuthenticationDialog.qml:47
+#: ../qml/PromptDialog.qml:32 ../qml/Main.qml:416 ../qml/Main.qml:447
+#: ../qml/Main.qml:488 ../qml/AlertDialog.qml:26 ../qml/ConfirmDialog.qml:26
+msgid "OK"
+msgstr "Aceptar"
+
+#: ../qml/AuthenticationDialog.qml:24
+msgid "Authentication required."
+msgstr "Necesita autenticación"
+
+#. TRANSLATORS: %1 refers to the URL of the current website
+#: ../qml/AuthenticationDialog.qml:26
+msgid "The website %1 requires authentication."
+msgstr "El sitio web %1 necesita autenticación."
+
+#: ../qml/AuthenticationDialog.qml:34
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ../qml/AuthenticationDialog.qml:41
+msgid "Password"
+msgstr "Contraseña"
+
+#: ../qml/AuthenticationDialog.qml:53 ../qml/PromptDialog.qml:38
+#: ../qml/ConfirmDialog.qml:32
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../qml/QrCodeDialog.qml:11
+msgid "Close"
+msgstr "Cerrar"
+
+#: ../qml/PromptDialog.qml:23
+msgid "JavaScript Prompt"
+msgstr "Prompt de javascript"
+
+#: ../qml/Main.qml:165
+msgid "Copy Link"
+msgstr "Copiar enlace"
+
+#: ../qml/Main.qml:173
+msgid "Share Link"
+msgstr "Compartir enlace"
+
+#: ../qml/Main.qml:189
+msgid "Copy Image"
+msgstr "Copiar imagen"
+
+#: ../qml/Main.qml:194
+msgid "Download Image"
+msgstr "Descargar imagen"
+
+#: ../qml/Main.qml:341
+msgid "Reload"
+msgstr "Recargue"
+
+#: ../qml/Main.qml:351
+msgid "Forward"
+msgstr "Avanzar"
+
+#: ../qml/Main.qml:357 ../qml/Main.qml:428
+msgid "About"
+msgstr "Acerca de"
+
+#: ../qml/Main.qml:374
+msgid "Home"
+msgstr "Página principal"
+
+#: ../qml/Main.qml:385
+msgid "Back"
+msgstr "Volver"
+
+#: ../qml/Main.qml:413
+msgid "Failed to download file"
+msgstr "No se pudo descargar el archivo"
+
+#: ../qml/Main.qml:429
+msgid ""
+"This is a generic Mattermost Webapp, based on Ogra's alternate webapp "
+"container and inspired from nextcloud_ogra."
+msgstr ""
+"Esta es una aplicación web de Mattermost genérica, basada en el "
+"contenedor de aplicaciones web alternativo Ogra."
+
+#: ../qml/Main.qml:433
+msgid ""
+"Mateosalta: Writer of nextcloud_ogra webapps."
+msgstr ""
+"Mateosalta: creador de nextcloud_ogra."
+
+#: ../qml/Main.qml:438
+msgid ""
+"Brian Douglass: Writer of Blobsaver, Downloadinterceptor, whose work made "
+"updloading and downloading possible."
+msgstr ""
+"Brian Douglass: creador de Blobsaver y Downloadinterceptor, cuyo trabajo "
+"hace posible el envío y descarga de archivos."
+
+#: ../qml/Main.qml:453
+msgid "Provide url for your personal Mattermost"
+msgstr "Introduce la URL de tu servidor Mattermost"
+
+#: ../qml/ErrorSheet.qml:36
+msgid "Network Error"
+msgstr "Error de red"
+
+#. TRANSLATORS: %1 refers to the URL of the current page
+#: ../qml/ErrorSheet.qml:42
+msgid "It appears you are having trouble viewing: %1."
+msgstr "Parece que tiene problemas para ver: %1.."
+
+#: ../qml/ErrorSheet.qml:48
+msgid "Please check your network settings and try refreshing the page."
+msgstr "Compruebe su configuración de red y pruebe a recargar la página."
+
+#: ../qml/ErrorSheet.qml:53
+msgid "Refresh page"
+msgstr "Recargar la página"
+
+#: ../qml/AlertDialog.qml:23
+msgid "JavaScript Alert"
+msgstr "Alerta de javascript"
+
+#: ../qml/actions/Copy.qml:22
+msgid "Copy"
+msgstr "Copiar"
+
+#: ../qml/actions/SaveImage.qml:22
+msgid "Save image"
+msgstr "Guardar imagen"
+
+#: ../qml/actions/CopyImage.qml:22
+msgid "Copy image"
+msgstr "Copiar imagen"
+
+#: ../qml/actions/ShareLink.qml:22
+msgid "Share…"
+msgstr "Compartir…"
+
+#: ../qml/actions/CopyLink.qml:22
+msgid "Copy link"
+msgstr "Copiar enlace"
+
+#: ../qml/FilePickerDialog.qml:28
+msgid "Please choose a file"
+msgstr "Elija un archivo"
+
+#: ../qml/ConfirmDialog.qml:23
+msgid "JavaScript Confirmation"
+msgstr "Confirmación de javascript"
+
+#: ../qml/ProxyAuthenticationDialog.qml:22
+msgid "Proxy authentication required."
+msgstr "Necesita autenticación para el proxy"
+
+#. TRANSLATORS: %1 refers to the proxy address, %2 refers to the proxy port
+#: ../qml/ProxyAuthenticationDialog.qml:24
+msgid "The website %1:%2 requires authentication."
+msgstr "El sitio web %1:%2 necesita autenticación."
+
+#: ../qml/CertificateVerificationDialog.qml:24
+msgid "This connection is untrusted"
+msgstr "Esta conexión no es fiable"
+
+#. TRANSLATORS: %1 refers to the hostname
+#: ../qml/CertificateVerificationDialog.qml:26
+msgid ""
+"You are trying to securely reach %1, but the security certificate of this "
+"website is not trusted."
+msgstr ""
+"Está tratando de acceder %1 de forma segura pero el certificado de "
+"seguridad de este sitio no es de confianza."
+
+#: ../qml/CertificateVerificationDialog.qml:29
+#: ../qml/InvalidCertificateErrorSheet.qml:160
+msgid "Proceed anyway"
+msgstr "Continuar de todas maneras"
+
+#: ../qml/CertificateVerificationDialog.qml:35
+#: ../qml/InvalidCertificateErrorSheet.qml:173
+msgid "Back to safety"
+msgstr "Volver a la seguro"
+
+#: ../qml/InvalidCertificateErrorSheet.qml:55
+msgid "This site security certificate is not trusted.\n"
+msgstr "El certificado de seguridad de este sitio no es de confianza.\n"
+
+#: ../qml/InvalidCertificateErrorSheet.qml:63
+msgid "Learn more"
+msgstr "Aprender más"
+
+#. TRANSLATORS: %1 refers to the SSL certificate's serial number
+#: ../qml/InvalidCertificateErrorSheet.qml:87
+msgid ""
+"Serial number:\n"
+"%1"
+msgstr ""
+"Número de serie:\n"
+"%1"
+
+#. TRANSLATORS: %1 refers to the SSL certificate's subject display name
+#: ../qml/InvalidCertificateErrorSheet.qml:94
+msgid ""
+"Subject:\n"
+"%1"
+msgstr ""
+"Sujeto:\n"
+"%1"
+
+#. TRANSLATORS: %1 refers to the SSL certificate's subject's address
+#: ../qml/InvalidCertificateErrorSheet.qml:102
+msgid ""
+"Subject address:\n"
+"%1"
+msgstr ""
+"Domicilio del sujeto:\n"
+"%1"
+
+#. TRANSLATORS: %1 refers to the SSL certificate's issuer display name
+#: ../qml/InvalidCertificateErrorSheet.qml:113
+msgid ""
+"Issuer:\n"
+"%1"
+msgstr ""
+"Emisor:\n"
+"%1"
+
+#. TRANSLATORS: %1 refers to the SSL certificate's issuer's address
+#: ../qml/InvalidCertificateErrorSheet.qml:121
+msgid ""
+"Issuer address:\n"
+"%1"
+msgstr ""
+"Domicilio del emisor:\n"
+"%1"
+
+#. TRANSLATORS: %1 refers to the SSL certificate's start date
+#: ../qml/InvalidCertificateErrorSheet.qml:132
+msgid ""
+"Valid from:\n"
+"%1"
+msgstr ""
+"Válido desde:\n"
+"%1"
+
+#. TRANSLATORS: %1 refers to the SSL certificate's expiry date
+#: ../qml/InvalidCertificateErrorSheet.qml:139
+msgid ""
+"Valid until:\n"
+"%1"
+msgstr ""
+"Válido hasta:\n"
+"%1"
+
+#. TRANSLATORS: %1 refers to the SSL certificate's SHA1 fingerprint
+#: ../qml/InvalidCertificateErrorSheet.qml:146
+msgid ""
+"Fingerprint (SHA1):\n"
+"%1"
+msgstr ""
+"Huella (SHA1):\n"
+"%1"
+
+#: ../qml/InvalidCertificateErrorSheet.qml:153
+msgid ""
+"You should not proceed, especially if you have never seen this warning "
+"before for this site."
+msgstr ""
+"No debe continuar, especialmente si no ha visto antes este aviso "
+"para este sitio."
+
+#. TRANSLATORS: %1 refers to the domain name of the SSL certificate
+#: ../qml/InvalidCertificateErrorSheet.qml:187
+msgid ""
+"You attempted to reach %1 but the server presented a security certificate "
+"which does not match the identity of the site."
+msgstr ""
+"Ha intentado acceder a %1 pero el servidor mostró un certificado de "
+"seguridad que no coincide con la identidad del sitio."
+
+#. TRANSLATORS: %1 refers to the domain name of the SSL certificate
+#: ../qml/InvalidCertificateErrorSheet.qml:190
+msgid ""
+"You attempted to reach %1 but the server presented a security certificate "
+"which has expired."
+msgstr ""
+"Ha intentado acceder a %1 pero el servidor mostró un certificado de "
+"seguridad caducado."
+
+#. TRANSLATORS: %1 refers to the domain name of the SSL certificate
+#: ../qml/InvalidCertificateErrorSheet.qml:193
+msgid ""
+"You attempted to reach %1 but the server presented a security certificate "
+"which contains invalid dates."
+msgstr ""
+"Ha intentado acceder a %1 pero el servidor mostró un certificado de "
+"seguridad que contiene fechas no válidas."
+
+#. TRANSLATORS: %1 refers to the domain name of the SSL certificate
+#: ../qml/InvalidCertificateErrorSheet.qml:196
+msgid ""
+"You attempted to reach %1 but the server presented a security certificate "
+"issued by an entity that is not trusted."
+msgstr ""
+"Ha intentado acceder a %1 pero el servidor mostró un certificado de "
+"seguridad emitido por una entidad que no es de confianza."
+
+#. TRANSLATORS: %1 refers to the domain name of the SSL certificate
+#: ../qml/InvalidCertificateErrorSheet.qml:199
+msgid ""
+"You attempted to reach %1 but the server presented a security certificate "
+"that has been revoked."
+msgstr ""
+"Ha intentado acceder a %1 pero el servidor mostró un certificado de "
+"seguridad que ha sido revocado."
+
+#. TRANSLATORS: %1 refers to the domain name of the SSL certificate
+#: ../qml/InvalidCertificateErrorSheet.qml:202
+msgid ""
+"You attempted to reach %1 but the server presented an invalid security "
+"certificate."
+msgstr ""
+"Ha intentado acceder a %1 pero el servidor mostró un certificado "
+"de seguridad no válido."
+
+#. TRANSLATORS: %1 refers to the domain name of the SSL certificate
+#: ../qml/InvalidCertificateErrorSheet.qml:205
+msgid ""
+"You attempted to reach %1 but the server presented an insecure security "
+"certificate."
+msgstr ""
+"Ha intentado acceder a %1 pero el servidor mostró un certificado "
+"de seguridad inseguro."
+
+#. TRANSLATORS: %1 refers to the domain name of the SSL certificate
+#: ../qml/InvalidCertificateErrorSheet.qml:208
+msgid ""
+"This site security certificate is not trusted\n"
+"You attempted to reach %1 but the server presented a security certificate "
+"which failed our security checks for an unknown reason."
+msgstr ""
+"El certificado de seguridad de este sitio no es de confianza\n"
+"Ha intentado acceder a %1 pero el servidor mostró un certificado "
+"de seguridad que no pasó nuestros controles de seguridad "
+"por una razón desconocida."
+
+#: ../qml/MediaAccessDialog.qml:31
+msgid "Permission"
+msgstr "Permiso"
+
+#: ../qml/MediaAccessDialog.qml:38
+msgid "Allow this domain to access your camera and microphone?"
+msgstr "¿Permite a este dominio acceder a su cámara y micrófono?"
+
+#: ../qml/MediaAccessDialog.qml:39
+msgid "Allow this domain to access your camera?"
+msgstr "¿Permite a este dominio acceder a su cámara?"
+
+#: ../qml/MediaAccessDialog.qml:40
+msgid "Allow this domain to access your microphone?"
+msgstr "¿Permite a este dominio acceder a su micrófono?"
+
+#. TRANSLATORS: %1 is the URL of the site requesting access to camera and/or microphone and %2 is the URL of the site that embeds it
+#: ../qml/MediaAccessDialog.qml:48
+msgid "%1 (embedded in %2)"
+msgstr "%1 (insertado en %2)"
+
+#: ../qml/MediaAccessDialog.qml:72
+msgid "Yes"
+msgstr "Sí"
+
+#: ../qml/MediaAccessDialog.qml:83
+msgid "No"
+msgstr "No"
+
+#: ../qml/BeforeUnloadDialog.qml:23
+msgid "Confirm Navigation"
+msgstr "Confirmar la navegación"
+
+#: ../qml/BeforeUnloadDialog.qml:26
+msgid "Leave"
+msgstr "Abandonar"
+
+#: ../qml/BeforeUnloadDialog.qml:31
+msgid "Stay"
+msgstr "Quedarse"
+
+#: nattermost.desktop.in.h:1
+msgid "Mattermost"
+msgstr "Mattermost"
