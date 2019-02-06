@@ -1,193 +1,34 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR saveurlinux@gmail.com, 2019.
+# This file is distributed under the same license as the mattermost.dc package.
+# FIRST AUTHOR saveurlinux@gmail.com, 2019
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: nattermost.dc\n"
+"Project-Id-Version: mattermost.dc\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-25 19:50+0000\n"
+"POT-Creation-Date: 2019-02-06 17:02+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Last-Translator: lutin11 <saveurlinux@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../qml/SadPage.qml:45
-msgid "Oops, something went wrong. Reload from bottom menu."
-msgstr "Oops, quelque chose s'est mal passé. Rechargez depuis le menu du bas."
-
-#: ../qml/SettingsDialog.qml:25 ../qml/Main.qml:365
+#: ../qml/SettingsDialog.qml:25 ../qml/Main.qml:366
 msgid "Settings"
 msgstr "Configuration"
 
 #: ../qml/SettingsDialog.qml:33
-msgid "www.nattermost.com"
-msgstr "www.nattermost.com"
+msgid "www.mattermost.com"
+msgstr "www.mattermost.com"
 
-#: ../qml/SettingsDialog.qml:39 ../qml/AuthenticationDialog.qml:47
-#: ../qml/PromptDialog.qml:32 ../qml/Main.qml:416 ../qml/Main.qml:447
-#: ../qml/Main.qml:488 ../qml/AlertDialog.qml:26 ../qml/ConfirmDialog.qml:26
+#: ../qml/SettingsDialog.qml:39 ../qml/ConfirmDialog.qml:26
+#: ../qml/AuthenticationDialog.qml:47 ../qml/Main.qml:416 ../qml/Main.qml:448
+#: ../qml/Main.qml:489 ../qml/AlertDialog.qml:26 ../qml/PromptDialog.qml:32
 msgid "OK"
 msgstr "OK"
-
-#: ../qml/AuthenticationDialog.qml:24
-msgid "Authentication required."
-msgstr "Authentification Proxi requise"
-
-#. TRANSLATORS: %1 refers to the URL of the current website
-#: ../qml/AuthenticationDialog.qml:26
-msgid "The website %1 requires authentication."
-msgstr "Le site %1 necessite d'être authentifié."
-
-#: ../qml/AuthenticationDialog.qml:34
-msgid "Username"
-msgstr "Nom d'utilisateur"
-
-#: ../qml/AuthenticationDialog.qml:41
-msgid "Password"
-msgstr "Mot de passe"
-
-#: ../qml/AuthenticationDialog.qml:53 ../qml/PromptDialog.qml:38
-#: ../qml/ConfirmDialog.qml:32
-msgid "Cancel"
-msgstr "Annuler"
-
-#: ../qml/QrCodeDialog.qml:11
-msgid "Close"
-msgstr "Fermer"
-
-#: ../qml/PromptDialog.qml:23
-msgid "JavaScript Prompt"
-msgstr "Console javascript"
-
-#: ../qml/Main.qml:165
-msgid "Copy Link"
-msgstr "Copier le lien"
-
-#: ../qml/Main.qml:173
-msgid "Share Link"
-msgstr "Partager le lien"
-
-#: ../qml/Main.qml:189
-msgid "Copy Image"
-msgstr "Copier l'image"
-
-#: ../qml/Main.qml:194
-msgid "Download Image"
-msgstr "Télécharger l'image"
-
-#: ../qml/Main.qml:341
-msgid "Reload"
-msgstr "Recharger"
-
-#: ../qml/Main.qml:351
-msgid "Forward"
-msgstr "Avancer"
-
-#: ../qml/Main.qml:357 ../qml/Main.qml:428
-msgid "About"
-msgstr "À propos"
-
-#: ../qml/Main.qml:374
-msgid "Home"
-msgstr "Page d'acceuil"
-
-#: ../qml/Main.qml:385
-msgid "Back"
-msgstr "Retour"
-
-#: ../qml/Main.qml:413
-msgid "Failed to download file"
-msgstr "Échec de téléchargement du fichier"
-
-#: ../qml/Main.qml:429
-msgid ""
-"This is a generic Mattermost Webapp, based on Ogra's alternate webapp "
-"container and inspired from nextcloud_ogra."
-msgstr ""
-"Il s'agit d'une application web générique pour Mattermost, basée sur le "
-"conteneur de l'application web Ogra et créée à partir de l'application web nextcloud_ogra."
-
-#: ../qml/Main.qml:433
-msgid ""
-"Mateosalta: Writer of nextcloud_ogra webapps."
-msgstr ""
-"Mateosalta: qui a developpé l'application web nextcloud_ogra."
-
-#: ../qml/Main.qml:438
-msgid ""
-"Brian Douglass: Writer of Blobsaver, Downloadinterceptor, whose work made "
-"updloading and downloading possible."
-msgstr ""
-"Brian Douglass: auteur de Blobsaver et Downloadinterceptor, dont le travail "
-"a rendu possible l'envoie et le téléchargement."
-
-#: ../qml/Main.qml:453
-msgid "Provide url for your personal Mattermost"
-msgstr "Entrez l'URL de votre serveur Mattermost"
-
-#: ../qml/ErrorSheet.qml:36
-msgid "Network Error"
-msgstr "Erreur réseau"
-
-#. TRANSLATORS: %1 refers to the URL of the current page
-#: ../qml/ErrorSheet.qml:42
-msgid "It appears you are having trouble viewing: %1."
-msgstr "Vous semblez rencontrer des difficultés pour voir: %1."
-
-#: ../qml/ErrorSheet.qml:48
-msgid "Please check your network settings and try refreshing the page."
-msgstr "Veuillez vérifier vos réglages réseau et rafraîchir la page."
-
-#: ../qml/ErrorSheet.qml:53
-msgid "Refresh page"
-msgstr "Rafraîchir la page"
-
-#: ../qml/AlertDialog.qml:23
-msgid "JavaScript Alert"
-msgstr "Alerte JavaScript"
-
-#: ../qml/actions/Copy.qml:22
-msgid "Copy"
-msgstr "Copier"
-
-#: ../qml/actions/SaveImage.qml:22
-msgid "Save image"
-msgstr "Télécharger l'image"
-
-#: ../qml/actions/CopyImage.qml:22
-msgid "Copy image"
-msgstr "Copier l'image"
-
-#: ../qml/actions/ShareLink.qml:22
-msgid "Share…"
-msgstr "Partager…"
-
-#: ../qml/actions/CopyLink.qml:22
-msgid "Copy link"
-msgstr "Copier le lien"
-
-#: ../qml/FilePickerDialog.qml:28
-msgid "Please choose a file"
-msgstr "Veuillez choisir un fichier"
-
-#: ../qml/ConfirmDialog.qml:23
-msgid "JavaScript Confirmation"
-msgstr "Autoriser le JavaScrip"
-
-#: ../qml/ProxyAuthenticationDialog.qml:22
-msgid "Proxy authentication required."
-msgstr "Authentification Proxi requise"
-
-#. TRANSLATORS: %1 refers to the proxy address, %2 refers to the proxy port
-#: ../qml/ProxyAuthenticationDialog.qml:24
-msgid "The website %1:%2 requires authentication."
-msgstr "Le site %1:%2 necessite d'être authentifié."
 
 #: ../qml/CertificateVerificationDialog.qml:24
 msgid "This connection is untrusted"
@@ -211,6 +52,15 @@ msgstr "Continuer quand même"
 #: ../qml/InvalidCertificateErrorSheet.qml:173
 msgid "Back to safety"
 msgstr "Retour à la sécurité"
+
+#: ../qml/ConfirmDialog.qml:23
+msgid "JavaScript Confirmation"
+msgstr "Autoriser le JavaScrip"
+
+#: ../qml/ConfirmDialog.qml:32 ../qml/AuthenticationDialog.qml:53
+#: ../qml/PromptDialog.qml:38
+msgid "Cancel"
+msgstr "Annuler"
 
 #: ../qml/InvalidCertificateErrorSheet.qml:55
 msgid "This site security certificate is not trusted.\n"
@@ -374,6 +224,169 @@ msgstr ""
 "Vous essayez de vous rendre à l'adresse %1 mais le serveur délivre un certificat de sécurité "
 "qui a échoué à notre contrôle de sécurité pour une raison inconnue."
 
+#: ../qml/ProxyAuthenticationDialog.qml:22
+msgid "Proxy authentication required."
+msgstr "Authentification Proxi requise"
+
+#. TRANSLATORS: %1 refers to the proxy address, %2 refers to the proxy port
+#: ../qml/ProxyAuthenticationDialog.qml:24
+msgid "The website %1:%2 requires authentication."
+msgstr "Le site %1:%2 necessite d'être authentifié."
+
+#: ../qml/BeforeUnloadDialog.qml:23
+msgid "Confirm Navigation"
+msgstr "Confirmer le changement de page"
+
+#: ../qml/BeforeUnloadDialog.qml:26
+msgid "Leave"
+msgstr "Quiter"
+
+#: ../qml/BeforeUnloadDialog.qml:31
+msgid "Stay"
+msgstr "Rester"
+
+#: ../qml/actions/CopyImage.qml:22
+msgid "Copy image"
+msgstr "Copier l'image"
+
+#: ../qml/actions/ShareLink.qml:22
+msgid "Share…"
+msgstr "Partager…"
+
+#: ../qml/actions/CopyLink.qml:22
+msgid "Copy link"
+msgstr "Copier le lien"
+
+#: ../qml/actions/SaveImage.qml:22
+msgid "Save image"
+msgstr "Télécharger l'image"
+
+#: ../qml/actions/Copy.qml:22
+msgid "Copy"
+msgstr "Copier"
+
+#: ../qml/AuthenticationDialog.qml:24
+msgid "Authentication required."
+msgstr "Authentification requise"
+
+#. TRANSLATORS: %1 refers to the URL of the current website
+#: ../qml/AuthenticationDialog.qml:26
+msgid "The website %1 requires authentication."
+msgstr "Le site %1 necessite d'être authentifié."
+
+#: ../qml/AuthenticationDialog.qml:34
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: ../qml/AuthenticationDialog.qml:41
+msgid "Password"
+msgstr "Mot de passe"
+
+#: ../qml/Main.qml:163
+msgid "Copy Link"
+msgstr "Copier le lien"
+
+#: ../qml/Main.qml:171
+msgid "Share Link"
+msgstr "Partager le lien"
+
+#: ../qml/Main.qml:187
+msgid "Copy Image"
+msgstr "Copier l'image"
+
+#: ../qml/Main.qml:193
+msgid "Download Image"
+msgstr "Télécharger l'image"
+
+#: ../qml/Main.qml:340
+msgid "Reload"
+msgstr "Recharger"
+
+#: ../qml/Main.qml:350
+msgid "Forward"
+msgstr "Avancer"
+
+#: ../qml/Main.qml:357 ../qml/Main.qml:428
+msgid "About"
+msgstr "À propos"
+
+#: ../qml/Main.qml:375
+msgid "Home"
+msgstr "Page d'acceuil"
+
+#: ../qml/Main.qml:385
+msgid "Back"
+msgstr "Retour"
+
+#: ../qml/Main.qml:413
+msgid "Failed to download file"
+msgstr "Échec de téléchargement du fichier"
+
+#: ../qml/Main.qml:430
+msgid ""
+"This is a generic Mattermost Webapp, based on Ogra's alternate webapp "
+"container and inspired from nextcloud_ogra."
+msgstr ""
+"Il s'agit d'une application web générique pour Mattermost, basée sur le "
+"conteneur de l'application web Ogra et créée à partir de l'application web nextcloud_ogra."
+
+#: ../qml/Main.qml:434
+msgid "Mateosalta: Writer of nextcloud_ogra webapps."
+msgstr "Mateosalta: qui a developpé l'application web nextcloud_ogra."
+
+#: ../qml/Main.qml:439
+msgid ""
+"Brian Douglass: Writer of Blobsaver, Downloadinterceptor, whose work made "
+"updloading and downloading possible."
+msgstr ""
+"Brian Douglass: auteur de Blobsaver et Downloadinterceptor, dont le travail "
+"a rendu possible l'envoie et le téléchargement."
+
+#: ../qml/Main.qml:444
+msgid "Special thanks to translator: Advocatux"
+msgstr "Un grand merci au traducteur: Advocatux"
+
+#: ../qml/Main.qml:459
+msgid "Provide url for your personal Mattermost"
+msgstr "Entrez l'URL de votre serveur Mattermost"
+
+#: ../qml/FilePickerDialog.qml:28
+msgid "Please choose a file"
+msgstr "Veuillez choisir un fichier"
+
+#: ../qml/AlertDialog.qml:23
+msgid "JavaScript Alert"
+msgstr "Alerte JavaScript"
+
+#: ../qml/PromptDialog.qml:23
+msgid "JavaScript Prompt"
+msgstr "Console javascript"
+
+#: ../qml/SadPage.qml:45
+msgid "Oops, something went wrong. Reload from bottom menu."
+msgstr "Oops, quelque chose s'est mal passé. Rechargez depuis le menu du bas."
+
+#: ../qml/ErrorSheet.qml:36
+msgid "Network Error"
+msgstr "Erreur réseau"
+
+#. TRANSLATORS: %1 refers to the URL of the current page
+#: ../qml/ErrorSheet.qml:42
+msgid "It appears you are having trouble viewing: %1."
+msgstr "Vous semblez rencontrer des difficultés pour voir: %1."
+
+#: ../qml/ErrorSheet.qml:48
+msgid "Please check your network settings and try refreshing the page."
+msgstr "Veuillez vérifier vos réglages réseau et rafraîchir la page."
+
+#: ../qml/ErrorSheet.qml:53
+msgid "Refresh page"
+msgstr "Rafraîchir la page"
+
+#: ../qml/QrCodeDialog.qml:11
+msgid "Close"
+msgstr "Fermer"
+
 #: ../qml/MediaAccessDialog.qml:31
 msgid "Permission"
 msgstr "Autorisation"
@@ -403,18 +416,6 @@ msgstr "Oui"
 msgid "No"
 msgstr "Non"
 
-#: ../qml/BeforeUnloadDialog.qml:23
-msgid "Confirm Navigation"
-msgstr "Confirmer le changement de page"
-
-#: ../qml/BeforeUnloadDialog.qml:26
-msgid "Leave"
-msgstr "Quiter"
-
-#: ../qml/BeforeUnloadDialog.qml:31
-msgid "Stay"
-msgstr "Rester"
-
-#: nattermost.desktop.in.h:1
+#: mattermost.desktop.in.h:1
 msgid "Mattermost"
 msgstr "Mattermost"

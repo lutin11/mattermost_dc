@@ -3,12 +3,11 @@
 # This file is distributed under the same license as the mattermost.dc package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: mattermost.dc\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-04 19:43+0000\n"
+"POT-Creation-Date: 2019-02-06 17:02+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,8 +25,8 @@ msgid "www.mattermost.com"
 msgstr ""
 
 #: ../qml/SettingsDialog.qml:39 ../qml/ConfirmDialog.qml:26
-#: ../qml/AuthenticationDialog.qml:47 ../qml/Main.qml:416 ../qml/Main.qml:443
-#: ../qml/Main.qml:484 ../qml/AlertDialog.qml:26 ../qml/PromptDialog.qml:32
+#: ../qml/AuthenticationDialog.qml:47 ../qml/Main.qml:416 ../qml/Main.qml:448
+#: ../qml/Main.qml:489 ../qml/AlertDialog.qml:26 ../qml/PromptDialog.qml:32
 msgid "OK"
 msgstr ""
 
@@ -302,7 +301,11 @@ msgid ""
 "updloading and downloading possible."
 msgstr ""
 
-#: ../qml/Main.qml:454
+#: ../qml/Main.qml:444
+msgid "Special thanks to translator: Advocatux"
+msgstr ""
+
+#: ../qml/Main.qml:459
 msgid "Provide url for your personal Mattermost"
 msgstr ""
 

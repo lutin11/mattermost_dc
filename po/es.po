@@ -25,8 +25,8 @@ msgid "www.mattermost.com"
 msgstr "www.mattermost.com"
 
 #: ../qml/SettingsDialog.qml:39 ../qml/ConfirmDialog.qml:26
-#: ../qml/AuthenticationDialog.qml:47 ../qml/Main.qml:416 ../qml/Main.qml:443
-#: ../qml/Main.qml:484 ../qml/AlertDialog.qml:26 ../qml/PromptDialog.qml:32
+#: ../qml/AuthenticationDialog.qml:47 ../qml/Main.qml:416 ../qml/Main.qml:448
+#: ../qml/Main.qml:489 ../qml/AlertDialog.qml:26 ../qml/PromptDialog.qml:32
 msgid "OK"
 msgstr "Aceptar"
 
@@ -342,7 +342,11 @@ msgstr ""
 "Brian Douglass: creador de Blobsaver y Downloadinterceptor, gracias a cuyo "
 "trabajo es posible subir y descargar archivos."
 
-#: ../qml/Main.qml:454
+#: ../qml/Main.qml:444
+msgid "Special thanks to translator: Advocatux"
+msgstr "Especialmente su agradecimiento al traductor: Advocatux"
+
+#: ../qml/Main.qml:459
 msgid "Provide url for your personal Mattermost"
 msgstr "Introduzca la url de su Mattermost personal."
 

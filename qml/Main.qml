@@ -439,6 +439,11 @@ MainView {
                 text: i18n.tr('Brian Douglass: Writer of Blobsaver, Downloadinterceptor, whose work made updloading and downloading possible.')
             }
 
+            Text {
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+                text: i18n.tr('Special thanks to translator: Advocatux')
+            }
+
             Button {
                 text: i18n.tr('OK')
                 onClicked: PopupUtils.close(aboutDialog)
